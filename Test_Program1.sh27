@@ -1,0 +1,19 @@
+Program _App;
+
+Start Var Int_4 _Aa, _Bb, _Xx, _Yy;
+
+   Scan (_Aa);
+   Scan (_Bb);
+
+   Print (_Aa ++ _Bb);
+   Print (_Aa Sub _Bb);
+   Print (_Aa ** _Bb);
+   Print (_Aa Div _Bb);
+   Print (_Aa Mod _Bb);
+
+   (_Aa Sub _Bb) ** 10 ++ (_Aa ++ _Bb) Div 10 -> _Xx;
+   _Xx ++ _Xx Mod 10 -> _Yy;
+
+   Print (_Xx);
+   Print (_Yy);
+Finish
