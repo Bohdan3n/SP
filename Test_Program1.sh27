@@ -1,4 +1,4 @@
-Program _App;
+Program _Ap;
 
 Start Var Int_4 _Aa, _Bb, _Xx, _Yy;
 
