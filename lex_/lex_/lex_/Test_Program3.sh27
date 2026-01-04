@@ -4,8 +4,7 @@ Start Var Int_4 _Aa, _Bb, _Ii, _Jj, _Xx;
 
    Scan (_Aa);
    Scan (_Bb);
-
-   _Ll:
+_Ll:
       If _Ii Le _Bb {
          Print(_Ii ** _Ii);
          _Ii ++ 1 -> _Ii;
@@ -15,10 +14,10 @@ Start Var Int_4 _Aa, _Bb, _Ii, _Jj, _Xx;
       0 -> _Xx;
       1 -> _Ii;
 
-   _Mm:
+_Mm:
       If _Ii Le _Aa {
          1 -> _Jj;
-         _Nn:
+_Nn:
             If _Jj Le _Bb {
                _Xx ++ 1 -> _Xx;
                _Jj ++ 1 -> _Jj;
