@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\lexica_part_dfa_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\lexica_part_dfa_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file3.sh27||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\file3.sh27||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file1.sh27||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\file1.sh27||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file2.sh27||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\file2.sh27||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file3.sh27",
+              "DocumentMoniker": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file3.sh27",
+              "RelativeDocumentMoniker": "lex_\\file3.sh27",
+              "ToolTip": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file3.sh27",
+              "RelativeToolTip": "lex_\\file3.sh27",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-21T12:57:17.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "file2.sh27",
+              "DocumentMoniker": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file2.sh27",
+              "RelativeDocumentMoniker": "lex_\\file2.sh27",
+              "ToolTip": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file2.sh27",
+              "RelativeToolTip": "lex_\\file2.sh27",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-21T12:57:15.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file1.sh27",
+              "DocumentMoniker": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file1.sh27",
+              "RelativeDocumentMoniker": "lex_\\file1.sh27",
+              "ToolTip": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\file1.sh27",
+              "RelativeToolTip": "lex_\\file1.sh27",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-21T12:57:04.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dfa_generator___part_impl.cpp",
+              "DocumentMoniker": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\dfa_generator___part_impl.cpp",
+              "RelativeDocumentMoniker": "lex_\\dfa_generator___part_impl.cpp",
+              "ToolTip": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\dfa_generator___part_impl.cpp",
+              "RelativeToolTip": "lex_\\dfa_generator___part_impl.cpp",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAAAIQBAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T08:09:42.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lexica_part_dfa_one.cpp",
+              "DocumentMoniker": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\lexica_part_dfa_one.cpp",
+              "RelativeDocumentMoniker": "lex_\\lexica_part_dfa_one.cpp",
+              "ToolTip": "D:\\\u043F\u043E\u043Bi\u0442\u0435\u0445\\\u0421\u041F\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\generator\\lex_\\lexica_part_dfa_one.cpp",
+              "RelativeToolTip": "lex_\\lexica_part_dfa_one.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T07:55:43.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

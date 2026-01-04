@@ -1,0 +1,6 @@
+﻿  lexica_part_dfa_one.cpp
+D:\полiтех\СП\курсова\generator\lex_\lexica_part_dfa_one.cpp(291,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\полiтех\СП\курсова\generator\lex_\lexica_part_dfa_one.cpp(292,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\полiтех\СП\курсова\generator\lex_\lexica_part_dfa_one.cpp(293,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\полiтех\СП\курсова\generator\lex_\lexica_part_dfa_one.cpp(351,38): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+  lex_.vcxproj -> D:\полiтех\СП\курсова\generator\x64\Debug\lex_.exe
