@@ -1,0 +1,35 @@
+Program _Ap;
+
+Start Var Int_4 _Aa, _Bb, _Cc;
+
+   Scan (_Aa);
+   Scan (_Bb);
+   Scan (_Cc);
+
+   If _Aa Ge _Bb And _Aa Ge _Cc {
+	Print(_Aa);
+   } Else If _Bb Ge _Aa And _Bb Ge _Cc {
+	Print(_Bb);
+   } Else {
+   	Print(_Cc);
+   }
+   
+   If _Aa Eg _Bb And _Aa Eg _Cc And _Bb Eg _Cc {
+      Print(1);
+   } Else {
+      Print(0);
+   }
+
+   If _Aa Le 0 Or _Bb Le 0 Or _Cc Le 0 {
+      Print(Sub 1);
+   } Else {
+      Print(0);
+   }
+
+   If Not(_Aa Le (_Bb ++ _Cc)) {
+      Print(10);
+   } Else {
+      Print(0);
+   }
+   
+Finish
